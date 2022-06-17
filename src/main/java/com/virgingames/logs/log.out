@@ -1,0 +1,117 @@
+2022-06-16 00:06:993 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 00:06:785 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 00:06:890 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 00:06:777 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 00:06:836 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 00:06:758 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 00:06:745 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 00:06:976 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 00:06:924 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 01:06:503 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 01:06:625 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 01:06:694 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 01:06:928 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 01:06:476 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:260 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:621 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:173 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:115 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:224 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:845 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:221 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:381 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:444 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 02:06:67 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 10:06:613 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:482 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:773 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:58 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:850 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:411 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:132 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:405 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:419 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 11:06:29 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 16:06:419 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 16:06:878 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 16:06:268 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 16:06:29 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 17:06:69 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 17:06:743 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 22:06:619 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 22:06:660 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 22:06:607 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-16 22:06:885 INFO  HomePage :60 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (ef2463ce1627a552415cc8f6226ffba0)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 21:06:692 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:866 INFO  HomePage :31 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (b9146c2ed38ae366771b6995c51b6ae2)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 21:06:935 INFO  HomePage :35 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (b9146c2ed38ae366771b6995c51b6ae2)] -> link text: Online Slots]
+2022-06-17 21:06:957 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:58 INFO  HomePage :31 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (433adb3f50b6ae256d316e833b771762)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 21:06:136 INFO  HomePage :35 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (433adb3f50b6ae256d316e833b771762)] -> link text: Online Slots]
+2022-06-17 21:06:534 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:575 INFO  HomePage :31 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (55d6cb2a9f2ff0f7ad3b0099d1367912)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 21:06:648 INFO  HomePage :35 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (55d6cb2a9f2ff0f7ad3b0099d1367912)] -> link text: Online Slots]
+2022-06-17 21:06:483 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:660 INFO  HomePage :46 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (1dcad1e17e346ff2893509d0547c8050)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 21:06:734 INFO  HomePage :50 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (1dcad1e17e346ff2893509d0547c8050)] -> link text: Online Slots]
+2022-06-17 21:06:177 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:410 INFO  HomePage :46 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (c94f193640614838d207da688094a1d8)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 21:06:491 INFO  HomePage :50 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (c94f193640614838d207da688094a1d8)] -> link text: Online Slots]
+2022-06-17 21:06:67 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 21:06:406 INFO  HomePage :46 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (332777d7bb122c9a450b3a5663d9a0e1)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 21:06:491 INFO  HomePage :50 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (332777d7bb122c9a450b3a5663d9a0e1)] -> link text: Online Slots]
+2022-06-17 22:06:386 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:799 INFO  HomePage :50 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (767f332650f0483a75a74eb042321b80)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:877 INFO  HomePage :62 - Click on Live Casino: [[ChromeDriver: chrome on WINDOWS (767f332650f0483a75a74eb042321b80)] -> link text: Live Casino]
+2022-06-17 22:06:523 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:647 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (126ad994297142af8e87a4ecc1b97c99)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:722 INFO  HomePage :67 - Click on Live Casino: [[ChromeDriver: chrome on WINDOWS (126ad994297142af8e87a4ecc1b97c99)] -> link text: Live Casino]
+2022-06-17 22:06:870 INFO  HomePage :72 - Verify live casino page: [[ChromeDriver: chrome on WINDOWS (126ad994297142af8e87a4ecc1b97c99)] -> xpath: //h1[contains(text(),'Try Live Casino - Live Action Dealers & Selection ')]]
+2022-06-17 22:06:886 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:824 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (ef84d74f1fa8674fa8261750072cade7)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:893 INFO  HomePage :76 - Click on Casino: [[ChromeDriver: chrome on WINDOWS (ef84d74f1fa8674fa8261750072cade7)] -> link text: Casino]
+2022-06-17 22:06:09 INFO  HomePage :81 - Verify casino page: [[ChromeDriver: chrome on WINDOWS (ef84d74f1fa8674fa8261750072cade7)] -> xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]]
+2022-06-17 22:06:710 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:865 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (08f133f8d524a41088b371e96e3b7e5a)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:943 INFO  HomePage :67 - Click on Live Casino: [[ChromeDriver: chrome on WINDOWS (08f133f8d524a41088b371e96e3b7e5a)] -> link text: Live Casino]
+2022-06-17 22:06:183 INFO  HomePage :72 - Verify live casino page: [[ChromeDriver: chrome on WINDOWS (08f133f8d524a41088b371e96e3b7e5a)] -> xpath: //h1[contains(text(),'Try Live Casino - Live Action Dealers & Selection ')]]
+2022-06-17 22:06:201 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:990 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (2a6248dfba5948fda6a842f63b44026d)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:54 INFO  HomePage :76 - Click on Casino: [[ChromeDriver: chrome on WINDOWS (2a6248dfba5948fda6a842f63b44026d)] -> link text: Casino]
+2022-06-17 22:06:172 INFO  HomePage :81 - Verify casino page: [[ChromeDriver: chrome on WINDOWS (2a6248dfba5948fda6a842f63b44026d)] -> xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]]
+2022-06-17 22:06:911 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:973 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (ad9bd315ae2fbf3797566ccb543e886e)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:45 INFO  HomePage :58 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (ad9bd315ae2fbf3797566ccb543e886e)] -> link text: Online Slots]
+2022-06-17 22:06:255 INFO  HomePage :63 - Verify on line slot page: [[ChromeDriver: chrome on WINDOWS (ad9bd315ae2fbf3797566ccb543e886e)] -> link text: Online Slots]
+2022-06-17 22:06:274 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:724 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (9004cf427ae6068a60dd8531e2559fef)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:788 INFO  HomePage :67 - Click on Live Casino: [[ChromeDriver: chrome on WINDOWS (9004cf427ae6068a60dd8531e2559fef)] -> link text: Live Casino]
+2022-06-17 22:06:941 INFO  HomePage :72 - Verify live casino page: [[ChromeDriver: chrome on WINDOWS (9004cf427ae6068a60dd8531e2559fef)] -> xpath: //h1[contains(text(),'Try Live Casino - Live Action Dealers & Selection ')]]
+2022-06-17 22:06:962 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:459 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (f921227ea469728221898025566d27f4)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:535 INFO  HomePage :76 - Click on Casino: [[ChromeDriver: chrome on WINDOWS (f921227ea469728221898025566d27f4)] -> link text: Casino]
+2022-06-17 22:06:654 INFO  HomePage :81 - Verify casino page: [[ChromeDriver: chrome on WINDOWS (f921227ea469728221898025566d27f4)] -> xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]]
+2022-06-17 22:06:990 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:159 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (feb4a6a5fc5827634804a7ab3fc8f064)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:233 INFO  HomePage :58 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (feb4a6a5fc5827634804a7ab3fc8f064)] -> link text: Online Slots]
+2022-06-17 22:06:552 INFO  HomePage :63 - Verify on line slot page: [[ChromeDriver: chrome on WINDOWS (feb4a6a5fc5827634804a7ab3fc8f064)] -> link text: Online Slots]
+2022-06-17 22:06:571 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:960 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (4e1fc323daa5896869e4bcd2ee48041e)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:43 INFO  HomePage :67 - Click on Live Casino: [[ChromeDriver: chrome on WINDOWS (4e1fc323daa5896869e4bcd2ee48041e)] -> link text: Live Casino]
+2022-06-17 22:06:223 INFO  HomePage :72 - Verify live casino page: [[ChromeDriver: chrome on WINDOWS (4e1fc323daa5896869e4bcd2ee48041e)] -> xpath: //h1[contains(text(),'Try Live Casino - Live Action Dealers & Selection ')]]
+2022-06-17 22:06:243 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:486 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (f5c76af6bb6a0eb00c4f44422f71a5bc)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:573 INFO  HomePage :76 - Click on Casino: [[ChromeDriver: chrome on WINDOWS (f5c76af6bb6a0eb00c4f44422f71a5bc)] -> link text: Casino]
+2022-06-17 22:06:707 INFO  HomePage :81 - Verify casino page: [[ChromeDriver: chrome on WINDOWS (f5c76af6bb6a0eb00c4f44422f71a5bc)] -> xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]]
+2022-06-17 22:06:517 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:910 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (0fe846cf625554b2afcfed2d811473f7)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:999 INFO  HomePage :58 - Click on Online slot: [[ChromeDriver: chrome on WINDOWS (0fe846cf625554b2afcfed2d811473f7)] -> link text: Online Slots]
+2022-06-17 22:06:150 INFO  HomePage :63 - Verify on line slot page: [[ChromeDriver: chrome on WINDOWS (0fe846cf625554b2afcfed2d811473f7)] -> link text: Online Slots]
+2022-06-17 22:06:168 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:990 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (bc2d6559c35547e31022a247b66663b4)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:63 INFO  HomePage :67 - Click on Live Casino: [[ChromeDriver: chrome on WINDOWS (bc2d6559c35547e31022a247b66663b4)] -> link text: Live Casino]
+2022-06-17 22:06:210 INFO  HomePage :72 - Verify live casino page: [[ChromeDriver: chrome on WINDOWS (bc2d6559c35547e31022a247b66663b4)] -> xpath: //h1[contains(text(),'Try Live Casino - Live Action Dealers & Selection ')]]
+2022-06-17 22:06:226 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-06-17 22:06:934 INFO  HomePage :54 - Accept Cookie: [[ChromeDriver: chrome on WINDOWS (1d3fd3fc65c435d1a3e2c5f8a54eeaa2)] -> css selector: div.privacy_prompt.explicit_consent div.privacy_prompt_content:nth-child(2) div.option_set:nth-child(3) div.option:nth-child(2) > label.dialog_button]
+2022-06-17 22:06:16 INFO  HomePage :76 - Click on Casino: [[ChromeDriver: chrome on WINDOWS (1d3fd3fc65c435d1a3e2c5f8a54eeaa2)] -> link text: Casino]
+2022-06-17 22:06:379 INFO  HomePage :81 - Verify casino page: [[ChromeDriver: chrome on WINDOWS (1d3fd3fc65c435d1a3e2c5f8a54eeaa2)] -> xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]]
